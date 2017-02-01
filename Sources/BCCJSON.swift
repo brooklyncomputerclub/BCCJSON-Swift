@@ -1,3 +1,11 @@
+//
+//  BCCJSON.swift
+//  BCCJSON-Swift
+//
+//  Created by Buzz Andersen on 3/8/16.
+//  Copyright © 2017 Brooklyn Computer Club. All rights reserved.
+//
+
 typealias JSONDict = Dictionary<String, AnyObject>
 typealias JSONArray = Array<JSONDict>
 
